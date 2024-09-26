@@ -11,6 +11,12 @@
 ### 🔭 I’m currently working on 
 - Web development with Django
 
+### 🚀 Technologies & Tools:
+![Python](https://img.shields.io/badge/Python-blue?logo=python)
+![Django](https://img.shields.io/badge/Django-green?logo=django)
+![HTML](https://img.shields.io/badge/HTML-orange?logo=html5)
+![CSS](https://img.shields.io/badge/CSS-blue?logo=css3)
+
 ### 🛠️ Languages and Tools I’m Familiar With
 - Programming Languages: Python, C#, Java, JavaScript
 - Web Development: HTML, CSS, Django
