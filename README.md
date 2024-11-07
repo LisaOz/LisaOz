@@ -17,7 +17,10 @@
 ![Django](https://img.shields.io/badge/Django-green?logo=django)
 ![HTML](https://img.shields.io/badge/HTML-orange?logo=html5)
 ![CSS](https://img.shields.io/badge/CSS-blue?logo=css3)
-![Anaconda Logo](link-to-your-anaconda-logo.png)
+![Anaconda](https://img.shields.io/badge/Tool-Anaconda-brightgreen?logo=anaconda)
+![PyCharm](https://img.shields.io/badge/IDE-PyCharm-green?logo=pycharm)
+![VS Code](https://img.shields.io/badge/IDE-VS%20Code-blue?logo=visual-studio-code)
+
 <br>
 
 ### 🛠️ Languages and Tools I’m Familiar With
