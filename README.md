@@ -3,7 +3,7 @@
 
 ### About Me:
 - 🎓 I'm studying to obtain a degree in Computing and Software Engineering
-- 🌐 I'm building small projects to sharpen my skills in HTML, CSS, JavaScript, and Python.
+- 🌐 I'm building small projects to sharpen my skills in HTML, CSS, JavaScript, Java, and Python.
 - 📖 I'm also learning about databases and API development.
 - 🤔 I’m exploring open-source contributions to improve my skills.
 <br>
