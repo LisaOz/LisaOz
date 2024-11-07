@@ -21,6 +21,11 @@
 ![PyCharm](https://img.shields.io/badge/IDE-PyCharm-green?logo=pycharm)
 ![VS Code](https://img.shields.io/badge/IDE-VS%20Code-blue?logo=visual-studio-code)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Eclipse](https://img.shields.io/badge/IDE-Eclipse-purple?logo=eclipse)
+![Docker](https://img.shields.io/badge/Tool-Docker-blue?logo=docker)
+![MySQL Workbench](https://img.shields.io/badge/Database-MySQL%20Workbench-orange?logo=mysql)
+![Postman](https://img.shields.io/badge/Tool-Postman-orange?logo=postman)
+
 
 <br>
 
