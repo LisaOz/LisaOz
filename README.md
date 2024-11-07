@@ -20,6 +20,7 @@
 ![Anaconda](https://img.shields.io/badge/Tool-Anaconda-brightgreen?logo=anaconda)
 ![PyCharm](https://img.shields.io/badge/IDE-PyCharm-green?logo=pycharm)
 ![VS Code](https://img.shields.io/badge/IDE-VS%20Code-blue?logo=visual-studio-code)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 <br>
 
