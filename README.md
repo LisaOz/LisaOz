@@ -38,11 +38,12 @@
 ### 🌱 What I'm Learning:
 - Python and Django development
 - Java
+- C#
 - Web development with HTML/CSS/JavaScript
 - Data Structures and Algorithms
 <br>
 
-### 🚀 My goals 2024-2025:
+### 🚀 My 2025 goals:
 - Contribute to open source projects.
 - Master Django and start learning about APIs.
 - Build a full-stack web application from scratch.
