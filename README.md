@@ -25,6 +25,7 @@
 ![MySQL Workbench](https://img.shields.io/badge/Database-MySQL%20Workbench-orange?logo=mysql)
 ![Postman](https://img.shields.io/badge/Tool-Postman-orange?logo=postman)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+<a href="http://www.djangoproject.com/"><img src="https://www.djangoproject.com/m/img/badges/djangopowered126x54.gif" border="0" alt="Powered by Django." title="Powered by Django." /></a>
 
 
 <br>
