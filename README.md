@@ -1,15 +1,10 @@
 ## Hi there! 
 <br>
 
-### About Me:
-- 🎓 I'm studying to obtain a degree in Computing and Software Engineering
-- 🌐 I'm building small projects to sharpen my skills in HTML, CSS, JavaScript, Java, and Python.
-- 📖 I'm also learning about databases and API development.
-- 🤔 I’m exploring open-source contributions to improve my skills.
-<br>
-
 ### 🔭 I’m currently working on 
 - Web development with Django
+- Linux
+- Kali Linux
 <br>
 
 ### 🚀 Technologies & Tools:
@@ -30,28 +25,13 @@
 
 <br>
 
-### 🛠️ Languages and Tools I’m Familiar With
+### 🛠️ Languages and Tools
 - Programming Languages: Python, C#, Java, JavaScript
 - Web Development: HTML, CSS, Django
 - Version Control: Git, GitHub
 <br>
 
-### 🌱 What I'm Learning:
-- Python and Django development
-- Java
-- C#
-- Web development with HTML/CSS/JavaScript
-- Data Structures and Algorithms
-<br>
 
-### 🚀 My 2025 goals:
-- Contribute to open source projects.
-- Master Django and start learning about APIs.
-- Build a full-stack web application from scratch.
-<br>
-
-Thanks for stopping by! I'm always open to connecting, learning from others, 
-and collaborating on interesting projects. 😊
 
 
 
